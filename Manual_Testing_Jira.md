@@ -97,10 +97,9 @@ The following elements are needed to be ready before the test execution phase be
 
 ### 1.6. Test Execution
 Test cases are executed on the created test Cycle summary: Test My account.
+Bugs have been created based on the failed tests.
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: (inserati aici fisierul cu bug-urile pe care le-ati identificat)
-
-The following is a summary of the bugs that have been found (inserati o lista cu titlurile bug-urilor identificate impreuna cu prioritatea si severitatea fiecaruia)
+The following is a summary of the bugs that have been found ![bugs](https://github.com/DMIonescu/Manual_Testing_Jira/assets/154073184/560a02e1-a352-40b1-8291-7c2a8165467e)
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
