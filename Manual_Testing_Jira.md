@@ -87,12 +87,13 @@ The following test conditions were found:
 ![tests](https://github.com/DMIonescu/Manual_Testing_Jira/assets/154073184/207107fb-1dd0-488a-9ade-e6416c5316b3)
 
 ### 1.4 Test Design
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here (inserati linkul catre fisierul cu testele, in format pdf, word sau csv)
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here [test cases.xlsx](https://github.com/DMIonescu/Manual_Testing_Jira/files/14257497/test.cases.xlsx)
 
 ### 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
-
-(inserati lista de elemente care sunt evaluate in etapa de implementare)
+- Prepare test data for test execution
+- Finalize, implement and prioritize test cases
+- Prepare the testing environment
 
 ### 1.6. Test Execution
 Test cases are executed on the created test Cycle summary: Test My account.
