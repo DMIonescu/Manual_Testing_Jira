@@ -112,9 +112,9 @@ The traceability matrix was generated and can be found here: ![traceability matr
 
 Test execution chart was generated and can be found below.
 
-(inserati aici raportul de executie generat din jira din sectiunea de dashboards)
+[Olx.ro execution report.pdf](https://github.com/DMIonescu/Manual_Testing_Jira/files/14257709/Olx.ro.execution.report.pdf)
 
-The final report shows that a number (inserati numarul de teste) tests have failed of a total of (inserati numarul de teste)
+The final report shows that a number of 5 tests have failed of a total of 10.
 
 A number of 5 total bugs were found, from which the priority is: 1 is high and 4 are medium.
 
