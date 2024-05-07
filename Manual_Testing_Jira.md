@@ -37,7 +37,7 @@ The roles and responsibilities are assigned to the team members.
 
 #### 1.1.3 Exit criteria defined
 
-All the text cases have been executed.
+All the test cases have been executed.
 
 #### 1.1.4 Test scope
 
