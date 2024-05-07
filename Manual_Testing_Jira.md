@@ -111,7 +111,7 @@ The traceability matrix was generated and can be found here: ![traceability matr
 
 Test execution chart was generated and can be found below.
 
-[Olx.ro execution report.pdf](https://github.com/DMIonescu/Manual_Testing_Jira/files/14257709/Olx.ro.execution.report.pdf)
+![test execution report](https://github.com/DMIonescu/Manual_Testing_Jira/assets/154073184/a2cefa1f-f078-4d64-86c5-eff25e51898c)
 
 The final report shows that a number of 5 tests have failed of a total of 10.
 
