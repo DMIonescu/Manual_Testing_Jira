@@ -104,7 +104,7 @@ The following is a summary of the bugs that have been found ![bugs](https://gith
 
 Here you can find the detailed bug reports:
 
-[Uploading Bugs.doc…]()
+[Bugs.pdf](https://github.com/DMIonescu/Manual_Testing_Jira/files/15237472/Bugs.pdf)
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
