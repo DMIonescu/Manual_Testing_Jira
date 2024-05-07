@@ -77,6 +77,7 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 ### 1.2 Test Monitoring and Control
 The execution of testing activities is tracked, measured and assessed. It involves frequent reviews to guarantee that targets are met at every stage of the testing lifecycle.
 Test case execution metrics detail the number of test cases that have been executed, along with their outcomes (pass, fail, blocked)
+
 ![test metrics](https://github.com/DMIonescu/Manual_Testing_Jira/assets/154073184/164ed394-83af-40fb-8b21-64f27454ad90)
 
 ### 1.3 Test Analysis
@@ -100,6 +101,10 @@ Test cases are executed on the created test Cycle summary: Test My account.
 Bugs have been created based on the failed tests.
 
 The following is a summary of the bugs that have been found ![bugs](https://github.com/DMIonescu/Manual_Testing_Jira/assets/154073184/560a02e1-a352-40b1-8291-7c2a8165467e)
+
+Here you can find the detailed bug reports:
+
+[Uploading Bugs.doc…]()
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
