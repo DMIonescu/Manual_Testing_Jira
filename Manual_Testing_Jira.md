@@ -114,11 +114,14 @@ As the Exit criteria were met and satisfied as mentioned in the appropriate sect
 
 The traceability matrix was generated and can be found here: ![traceability matrix](https://github.com/DMIonescu/Manual_Testing_Jira/assets/154073184/f470e779-6651-4332-8bd6-a22377dc6007)
 
+Through this traceability matrix, we notice that all 3 stories were covered by at least one test case. Thus, for the first and second business requirements, I performed 3 tests each, of which only one passed successfully and I reported 2 defects each. For the third business requirement, I executed 4 tests, of which 3 ran successfully and I reported 1 defect.
+
 Test execution chart was generated and can be found below.
 
 ![test execution report](https://github.com/DMIonescu/Manual_Testing_Jira/assets/154073184/a2cefa1f-f078-4d64-86c5-eff25e51898c)
 
 The final report shows that a number of 5 tests have failed of a total of 10.
 
-A number of 5 total bugs were found, from which the priority is: 1 is high and 4 are medium.
-
+Out of a total of 3 stories, all were covered by the tests.
+All written tests have been executed. Out of a total of 10 tests, 5 failed. Thus, 5 bugs were discovered, one with high priority and 4 with medium priority.
+After the reported bugs are fixed, retesting and regression testing will be performed.
