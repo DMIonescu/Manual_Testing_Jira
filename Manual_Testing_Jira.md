@@ -121,7 +121,7 @@ Test execution chart was generated and can be found below.
 ![test execution report](https://github.com/DMIonescu/Manual_Testing_Jira/assets/154073184/a2cefa1f-f078-4d64-86c5-eff25e51898c)
 
 The final report shows that a number of 5 tests have failed of a total of 10.
-
+### CONCLUSION
 Out of a total of 3 stories, all were covered by the tests.
 All written tests have been executed. Out of a total of 10 tests, 5 failed. Thus, 5 bugs were discovered, one with high priority and 4 with medium priority.
 After the reported bugs are fixed, retesting and regression testing will be performed.
